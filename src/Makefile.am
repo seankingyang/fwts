@@ -192,6 +192,7 @@ fwts_SOURCES = main.c 				\
 	cpu/virt/virt_vmx.c			\
 	cpu/maxfreq/maxfreq.c 			\
 	cpu/cpufreq/cpufreq.c 			\
+	cpu/cpuidle/cpuidle.c           \
 	cpu/nx/nx.c 				\
 	cpu/msr/msr.c 				\
 	cpu/microcode/microcode.c 		\
